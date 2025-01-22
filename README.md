@@ -7,3 +7,7 @@ They are designed to be as modular as possible while keeping main code debloated
 IDE: VSCode with PlatformIO
 
 Useage example projects included.
+
+Notes:
+
+- Tested on an ESP8266 NodeMCU only as I do not yet own an ESP32. When I get one I'll test & update accordingly.
